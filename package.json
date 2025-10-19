@@ -1,0 +1,5 @@
+{
+  "name": "yandex-forms-proxy",
+  "version": "1.0.0",
+  "main": "api/hello.js"
+}
