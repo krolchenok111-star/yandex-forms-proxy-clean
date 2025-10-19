@@ -1,5 +1,8 @@
 {
   "name": "yandex-forms-proxy",
   "version": "1.0.0",
-  "main": "api/hello.js"
+  "main": "api/hello.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
 }
